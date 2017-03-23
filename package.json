@@ -1,0 +1,8 @@
+{
+  "standard": {
+    "global": ["$", "alert"]
+  }
+}
+
+
+//in package.json to remove $ error
